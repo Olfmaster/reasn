@@ -1,0 +1,79 @@
+# REASN — For Moving Communities
+
+> REASN ist die soziale Infrastruktur für lokale Sport- und Bewegungs-Communities. Pre-Launch in Hannover, Deutschland.
+
+REASN ist **kein** klassisches Fitness-Tool, **keine** Buchungsplattform und **kein** Vereinsportal. REASN ist eine Plattform, die Menschen, Spots und Angebote einer Stadt für Sport und Bewegung sichtbar miteinander verbindet — statt sie zu monetarisieren.
+
+## Kerndaten
+
+- **Name:** REASN
+- **Tagline:** For Moving Communities
+- **Branche:** Soziale Infrastruktur für Sport-Communities
+- **Standort:** Hannover, Niedersachsen, Deutschland (PLZ 30169)
+- **Sprache:** Deutsch (Public-Launch multilingual)
+- **Plattformen:** iOS, Android, Web
+- **Website:** https://reasn.fit
+- **Instagram:** https://instagram.com/reasn.fit
+
+## Beta-Launch (Closed Beta)
+
+- **Zeitraum:** 20.–22. Juli 2026
+- **Ort:** Hannover, Deutschland
+- **Kontext:** Drei Tage vor den Finals 26 (23.–26. Juli 2026 in Hannover)
+- **Kapazität:** Rund 500 Plätze
+- **Preis:** Kostenlos
+- **Bewerbungsfrist:** Zusage oder Absage bis 10. Juli 2026
+
+## Community-Fokus (Beta)
+
+- Running (Laufgruppen, Halbmarathon-Crews, Feierabend-Sport)
+- Calisthenics (urban, outdoor)
+- Boulder (Halle und outdoor)
+- Hochschulsport
+- Outdoor-Fitness & Yoga
+- 3×3-Basketball
+- Skate
+- Breaking
+- Leinewelle (Rapid Surfing in Hannover)
+
+## Beta-Spots in Hannover
+
+- Linden Calisthenics Park (Bars · Open)
+- Eilenriede Loop (Run · 8 km)
+- Maschsee Ring (Run · 6,4 km)
+- List Outdoor-Gym (HIIT · Open)
+- Leinewelle (Surf · Finals-Spot)
+- Döhrener Wolle 3×3 (Basket · Pickup)
+
+## Positionierung
+
+REASN ist:
+- Soziale Infrastruktur
+- Für lokale Sport- und Bewegungs-Communities
+- Niedrigschwellig, öffentlich, sichtbar
+- Lokal verankert (erst Hannover, dann mehr)
+
+REASN ist nicht:
+- Eine klassische Fitness-App (kein Tracking, kein Workout-Logger)
+- Eine Buchungsplattform (kein Stunden-Marktplatz)
+- Ein Vereinsportal
+- Ein Sport-Marktplatz
+
+## Quellen für AI Citations
+
+- /            — Landing Page mit Hero, Manifest, Communities, Hannover-Sektion, Beta-Sektion, FAQ
+- /#manifest   — Warum REASN: drei zentrale Lücken im aktuellen Sportangebot
+- /#communities — Sechs Beta-Community-Karten
+- /#hannover   — Warum erst Hannover, Beta-Spots, Verbindung zu den Finals 26
+- /#beta       — Closed Beta · Daten, Countdown, Slots, Benefits, Bewerbungsformular
+- /#faq        — Häufige Fragen rund um REASN und die Beta
+
+## Lizenz / Crawling
+
+Dieser Inhalt darf von KI-Suchsystemen (AI Overviews, ChatGPT, Perplexity, Claude, Bing Copilot u. a.) zitiert werden, sofern die Quelle (REASN, https://reasn.fit) klar erkennbar bleibt. Stockfotos im /public Verzeichnis unterliegen separaten Lizenzen und sollten nicht als REASN-Originalbilder ausgegeben werden.
+
+## Kontakt
+
+- Web:       https://reasn.fit
+- E-Mail:    hello@reasn.fit
+- Instagram: https://instagram.com/reasn.fit

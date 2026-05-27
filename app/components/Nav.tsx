@@ -30,6 +30,7 @@ export default function Nav() {
         <a className="link" href="#communities">Communities</a>
         <a className="link" href="#hannover">Hannover</a>
         <a className="link" href="#beta">Beta</a>
+        <a className="link" href="#faq">FAQ</a>
         <a className="link" href="/styleguide">Styleguide ↗</a>
       </div>
       <div className="right">

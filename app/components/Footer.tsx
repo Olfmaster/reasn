@@ -31,6 +31,9 @@ export default function Footer() {
             <li>
               <a href="#beta">Beta</a>
             </li>
+            <li>
+              <a href="#faq">FAQ</a>
+            </li>
           </ul>
         </div>
 
